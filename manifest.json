@@ -1,0 +1,30 @@
+{
+  "name": "Dashboard",
+  "theme_color": "#fcbd5e",
+  "background_color": "#4ebd9e",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+     "icons": [
+      {
+        "src": "images/dashboard_16x16.png",
+        "type": "image/png",
+        "sizes": "16x16"
+      },
+      {
+        "src": "images/dashboard_32x32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "images/dashboard_64x64.png",
+        "type": "image/png",
+        "sizes": "64x64"
+      },
+      {
+        "src": "images/dashboard_128x128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      }
+    ]
+}

@@ -1,6 +1,6 @@
 console.log('sw');
 
-const STATIC_CACHE = "1.2";
+const STATIC_CACHE = "1.1";
 const DYNAMIC_CACHE = "1.1";
 
 var urlsToCache = [
